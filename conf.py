@@ -53,7 +53,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'gzes'
+project = u'gges'
 copyright = u'2016, UBC-GIF'
 author = u'UBC-GIF'
 
@@ -212,7 +212,7 @@ html_show_copyright = True
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'gzes'
+htmlhelp_basename = 'gges'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -234,7 +234,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'gzesManual.tex', u'GZES Documentation',
+  (master_doc, 'ggesManual.tex', u'GGES Documentation',
    u'UBC-GIF', 'manual'),
 ]
 
@@ -264,7 +264,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'gzesdoc', u'GZES Documentation',
+    (master_doc, 'ggesdoc', u'GGES Documentation',
      [author], 1)
 ]
 
@@ -278,8 +278,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'gzesdoc', u'GZES Documentation',
-   author, 'gzesdoc', 'Vertical gravity equivalent source.',
+  (master_doc, 'ggesdoc', u'GGES Documentation',
+   author, 'ggesdoc', 'Gravity gradiometry equivalent source.',
    'Miscellaneous'),
 ]
 
