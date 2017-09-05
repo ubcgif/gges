@@ -117,7 +117,7 @@ todo_include_todos = False
 
 # -- Edit on Github Extension ---------------------------------------------
 
-edit_on_github_project = 'ubcgif/GIFtoolsCookbook'
+edit_on_github_project = 'ubcgif/gges'
 edit_on_github_branch = 'master'
 check_meta = False
 
